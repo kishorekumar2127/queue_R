@@ -1,0 +1,11 @@
+Package: queue
+Type: Package
+Title: Queue (Title Case)
+Version: 1.0
+Author: kishore kumar
+Maintainer: kishore kumar gajula <kishorekumar2127@gmail.com>
+Description: To generate Queues (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
+NeedsCompilation: no
+Packaged: 2016-08-17 09:28:43 
